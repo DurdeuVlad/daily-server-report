@@ -1,0 +1,257 @@
+{
+  "2026-08-03": {
+    "/": {
+      "used_gb": 274.9,
+      "total_gb": 467.3,
+      "percent": 58.8
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-04": {
+    "/": {
+      "used_gb": 273.8,
+      "total_gb": 467.3,
+      "percent": 58.6
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-05": {
+    "/": {
+      "used_gb": 274.1,
+      "total_gb": 467.3,
+      "percent": 58.6
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-06": {
+    "/": {
+      "used_gb": 274.6,
+      "total_gb": 467.3,
+      "percent": 58.8
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-07": {
+    "/": {
+      "used_gb": 274.9,
+      "total_gb": 467.3,
+      "percent": 58.8
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 111.9,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-08": {
+    "/": {
+      "used_gb": 275.2,
+      "total_gb": 467.3,
+      "percent": 58.9
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.0,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.0,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-09": {
+    "/": {
+      "used_gb": 276.3,
+      "total_gb": 467.3,
+      "percent": 59.1
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-10": {
+    "/": {
+      "used_gb": 278.0,
+      "total_gb": 467.3,
+      "percent": 59.5
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-11": {
+    "/": {
+      "used_gb": 278.4,
+      "total_gb": 467.3,
+      "percent": 59.6
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-12": {
+    "/": {
+      "used_gb": 278.6,
+      "total_gb": 467.3,
+      "percent": 59.6
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-13": {
+    "/": {
+      "used_gb": 278.4,
+      "total_gb": 467.3,
+      "percent": 59.6
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-14": {
+    "/": {
+      "used_gb": 278.9,
+      "total_gb": 467.3,
+      "percent": 59.7
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 112.1,
+      "total_gb": 3666.3,
+      "percent": 3.1
+    }
+  },
+  "2026-08-15": {
+    "/": {
+      "used_gb": 283.2,
+      "total_gb": 467.3,
+      "percent": 60.6
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 191.1,
+      "total_gb": 3666.3,
+      "percent": 5.2
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 191.1,
+      "total_gb": 3666.3,
+      "percent": 5.2
+    }
+  },
+  "2026-08-16": {
+    "/": {
+      "used_gb": 282.9,
+      "total_gb": 467.3,
+      "percent": 60.5
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 188.4,
+      "total_gb": 3666.3,
+      "percent": 5.1
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 188.4,
+      "total_gb": 3666.3,
+      "percent": 5.1
+    }
+  },
+  "2026-08-17": {
+    "/": {
+      "used_gb": 284.4,
+      "total_gb": 467.3,
+      "percent": 60.9
+    },
+    "/mnt/4TB_A": {
+      "used_gb": 197.1,
+      "total_gb": 3666.3,
+      "percent": 5.4
+    },
+    "/mnt/4TB_B": {
+      "used_gb": 197.1,
+      "total_gb": 3666.3,
+      "percent": 5.4
+    }
+  }
+}

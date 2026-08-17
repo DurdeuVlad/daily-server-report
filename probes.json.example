@@ -1,0 +1,23 @@
+{
+  "custom_http_probes": [
+    {
+      "name": "Management Dashboard",
+      "url": "https://dashboard.example.com",
+      "category": "Core",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Document Vault",
+      "url": "https://vault.example.com",
+      "category": "Services",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Automation Engine",
+      "url": "https://automation.example.com",
+      "category": "Services",
+      "expected_status": [200, 301, 302, 401]
+    }
+  ],
+  "probe_timeout_seconds": 4
+}

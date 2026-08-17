@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  daily-server-report:
+    build: .
+    container_name: daily-server-report
+    restart: "no"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /mnt/4TB_A:/mnt/4TB_A:ro
+      - /mnt/4TB_B:/mnt/4TB_B:ro
+    environment:
+      - INFISICAL_DOMAIN=${INFISICAL_DOMAIN:-https://infisical.dwurdy.com/api}
+      - INFISICAL_CLIENT_ID=${INFISICAL_CLIENT_ID}
+      - INFISICAL_CLIENT_SECRET=${INFISICAL_CLIENT_SECRET}
+      - INFISICAL_PROJECT_ID=${INFISICAL_PROJECT_ID}
+    env_file:
+      - .env

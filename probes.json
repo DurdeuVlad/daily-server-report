@@ -1,0 +1,126 @@
+{
+  "custom_http_probes": [
+    {
+      "name": "Infisical SSOT Console",
+      "url": "https://infisical.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Coolify Management Dashboard",
+      "url": "https://coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Paperless-ngx Document Vault",
+      "url": "https://paperless.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Postiz Social Manager",
+      "url": "https://postiz.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Flowise AI Builder",
+      "url": "https://flowise.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Audiobookshelf Server",
+      "url": "https://audiobookshelf.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "SearXNG Meta Search Engine",
+      "url": "https://search.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Sonarr TV Manager",
+      "url": "https://sonarr.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Radarr Movie Manager",
+      "url": "https://radarr.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Prowlarr Indexer Proxy",
+      "url": "https://prowlarr.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Readarr Book Manager",
+      "url": "https://readarr.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Transmission Torrent Client",
+      "url": "https://torrent.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Penpot Design Platform",
+      "url": "https://penpot.coolify.dwurdy.com",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Vaultwarden Password Manager",
+      "url": "https://vault.dwurdy.com",
+      "category": "Standalone",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "n8n Automation Engine",
+      "url": "https://n8n.dwurdy.com",
+      "category": "Standalone",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Grafana Monitoring Dashboard",
+      "url": "https://grafana.dwurdy.com",
+      "category": "Standalone",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Nextcloud Workspace",
+      "url": "https://nextcloud.dwurdy.com",
+      "category": "Standalone",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Odoo Enterprise System",
+      "url": "https://odoo.dwurdy.com",
+      "category": "Standalone",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "LeetCode Coach AI Assistant",
+      "url": "https://leetcode.dwurdy.com/health",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    },
+    {
+      "name": "Calorie Tracker AI Assistant",
+      "url": "https://calorie.dwurdy.com/health",
+      "category": "Coolify",
+      "expected_status": [200, 301, 302, 401]
+    }
+  ],
+  "probe_timeout_seconds": 4
+}
+

@@ -1,0 +1,20 @@
+# Local environment & secrets
+.env
+.env.local
+
+# Local runtime state data
+critical_alert_state.json
+disk_history.json
+raid_migration_watch.json
+*.log
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE & System
+.DS_Store
+.vscode/
+.idea/
